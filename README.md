@@ -23,7 +23,7 @@ npm install -g degit
 2.使用模板創建新專案：
 
 ```bash
-degit yourname/nuxt3-template my-new-project
+degit JanShawn/nuxt3-template new-project-name
 cd my-new-project
 npm install
 npm run dev
